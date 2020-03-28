@@ -6,3 +6,4 @@
 4. [Typeof operator](https://github.com/chaitanyajun12/learn-it/blob/master/learn-javascript/javascript-101/typeof_values.js)
 5. [Variable decleration types](https://github.com/chaitanyajun12/learn-it/blob/master/learn-javascript/javascript-101/variable_decleration.js)
 6. [Functions](https://github.com/chaitanyajun12/learn-it/blob/master/learn-javascript/javascript-101/functions.js)
+7. [Value comparison](https://github.com/chaitanyajun12/learn-it/blob/master/learn-javascript/javascript-101/value_comparison.js)
