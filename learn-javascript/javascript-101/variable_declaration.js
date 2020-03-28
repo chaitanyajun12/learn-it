@@ -1,3 +1,5 @@
+"use strict";
+
 // Variables (aka identifiers) are containers of values.
 // Please comment the lines commented with "Error!" for this file to run.
 

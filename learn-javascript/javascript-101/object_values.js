@@ -1,3 +1,5 @@
+"use strict";
+
 // Objects (value collection) are unordered keyed collection of various values.
 // We can access the element by the key/property name
 
@@ -14,7 +16,6 @@ console.log(`I work at ${ me["company"] }`); // Using square brackets to access 
 
 // Arrays are special type of object value comprise of an 
 // orderded and numerically indexed list of data.
-"use strict";
 
 // Arrays
 // Arrays can hold any primitive or object value.

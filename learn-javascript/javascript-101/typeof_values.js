@@ -1,3 +1,5 @@
+"use strict";
+
 // typeof operator is used to find the type of the value.
 
 var name = "Krishna";

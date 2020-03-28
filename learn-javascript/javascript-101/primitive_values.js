@@ -1,8 +1,9 @@
+"use strict";
+
 // Values are fundamental unit if information in a program.
 // They come in two types, primitives and object.
 // Values are embedded in code using literals.
 // Literal is a notation used to represent fixed values.
-"use strict";
 
 // string literals
 var name = 'Krishna Chaitanya M';
