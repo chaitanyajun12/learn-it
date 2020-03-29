@@ -3,6 +3,11 @@
 // Class is a definition of a type of custom data structure that includes 
 // both data and behavior which operates on the data.
 
+// Class form stores methods and data on an object instance which must be 
+// accessed with 'this'.
+
+// All data and methods are public.
+
 class Animal {
     constructor(name) {
         this.name = name; // Member property
