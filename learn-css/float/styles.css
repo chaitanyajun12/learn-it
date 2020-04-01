@@ -1,0 +1,33 @@
+.parent {
+    width: 100%;
+    height: 100%;
+    background-color: aqua;
+    overflow: hidden;
+}
+
+.left {
+    float: left;
+    width: 100px;
+    height: 500px;
+    background-color: pink;
+    margin: 10px;
+    text-align: center;
+}
+
+.right {
+    float: right;
+    width: 100px;
+    height: 500px;
+    background-color: palegreen;
+    margin: 10px;
+    text-align: center;
+}
+
+.none {
+    float: none;
+    width: 500px;
+    height: 200px;
+    background-color: bisque;
+    text-align: center;
+    margin: 0;
+}
