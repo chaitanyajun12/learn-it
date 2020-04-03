@@ -10,3 +10,4 @@
 8. [Classes](https://github.com/chaitanyajun12/learn-it/blob/master/learn-javascript/javascript-oops/class.js)
 9. [Inheritance and Polymorphism](https://github.com/chaitanyajun12/learn-it/blob/master/learn-javascript/javascript-oops/inheritance_polymorphism.js)
 10. [Classic modules](https://github.com/chaitanyajun12/learn-it/blob/master/learn-javascript/javascript-modules/classic_module.js)
+11. [ES6 modules](https://github.com/chaitanyajun12/learn-it/blob/master/learn-javascript/javascript-modules/es6-module/)
