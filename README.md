@@ -1,4 +1,4 @@
-## learn-it
+## :zap: learn-it :zap:
 
 This is just a repository documenting :notebook: my learnings. If it helps out someone along the way. Great! :smiley:
 
