@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+span {
+    border: 2px solid red;
+    display: block;   
+    width: 200px; 
+    height: 50px;
+}
+
+.container {
+    text-align: center;
+    display: block;
+    height: 400px;
+    width: 400px;
+    border: 2px solid green;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    display: block;
+    margin: 2px;
+}
