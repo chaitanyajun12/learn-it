@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+
+.main-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container {
+    height: 300px;
+    width: 300px;
+    background-color: pink;
+    display: flex;
+}
+
+.col-flex {
+    flex-direction: column;
+}
+
+.row-flex {
+    flex-direction: row;
+}
+
+.row-reverse-flex {
+    flex-direction: row-reverse;
+}
+
+.col-reverse-flex {
+    flex-direction: column-reverse;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.aliceblue {
+    background-color: aliceblue;
+}
+
+.aquamarine {
+    background-color: aquamarine;
+}
+
+.blueviolet {
+    background-color: blueviolet;
+}
