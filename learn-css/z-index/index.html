@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <h2>z-index</h2>
+        <div class="container">
+            Stacking context - 1
+        </div>
+        <div class="parent">
+            Stacking context - 2
+            <div class="child-1"></div>
+            <div class="child-2"></div>
+            <div class="child-3"></div>
+        </div>
+        <div class="footer">
+            Stacking context - 1
+        </div>
+        <div class="info">
+            The bordered boxes indicate the divs. A positioned element creates a parent stacking context for its children.
+            In this stacking context - 2 is created for its child elements.
+            But, the same div's stacking is based on its parent.
+        </div>
+    </body>
+</html>
